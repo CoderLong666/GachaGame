@@ -1,0 +1,15 @@
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\bin\Debug\net9.0\GachaGame.Application.deps.json
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\bin\Debug\net9.0\GachaGame.Application.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\bin\Debug\net9.0\GachaGame.Application.pdb
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\bin\Debug\net9.0\GachaGame.Domain.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\bin\Debug\net9.0\GachaGame.Domain.pdb
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\obj\Debug\net9.0\GachaGame.Application.csproj.AssemblyReference.cache
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\obj\Debug\net9.0\GachaGame.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\obj\Debug\net9.0\GachaGame.Application.AssemblyInfoInputs.cache
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\obj\Debug\net9.0\GachaGame.Application.AssemblyInfo.cs
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\obj\Debug\net9.0\GachaGame.Application.csproj.CoreCompileInputs.cache
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\obj\Debug\net9.0\GachaGam.7D4C7B8E.Up2Date
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\obj\Debug\net9.0\GachaGame.Application.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\obj\Debug\net9.0\refint\GachaGame.Application.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\obj\Debug\net9.0\GachaGame.Application.pdb
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\obj\Debug\net9.0\ref\GachaGame.Application.dll

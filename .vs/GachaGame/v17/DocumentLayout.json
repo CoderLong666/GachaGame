@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CurrentPlay\\GachaGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BF1A57-3450-4C48-97FA-C91197429CC1}|GachaGame{C6BF1A57-3450-4C48-97FA-C91197429CC1}|D:\\CurrentPlay\\GachaGame\\\u5F00\u53D1\u65E5\u5FD7.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6BF1A57-3450-4C48-97FA-C91197429CC1}|GachaGame{C6BF1A57-3450-4C48-97FA-C91197429CC1}|solutionrelative:\u5F00\u53D1\u65E5\u5FD7.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u5F00\u53D1\u65E5\u5FD7.txt",
+              "DocumentMoniker": "D:\\CurrentPlay\\GachaGame\\\u5F00\u53D1\u65E5\u5FD7.txt",
+              "RelativeDocumentMoniker": "\u5F00\u53D1\u65E5\u5FD7.txt",
+              "ToolTip": "D:\\CurrentPlay\\GachaGame\\\u5F00\u53D1\u65E5\u5FD7.txt",
+              "RelativeToolTip": "\u5F00\u53D1\u65E5\u5FD7.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-08T03:01:52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

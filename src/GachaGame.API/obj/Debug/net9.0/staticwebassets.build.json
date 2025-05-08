@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "I0SxuXH2OhQ9VQ6esNsSPzZpA5GnDIuUo1FNE6uNUrI=",
+  "Source": "GachaGame.API",
+  "BasePath": "_content/GachaGame.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

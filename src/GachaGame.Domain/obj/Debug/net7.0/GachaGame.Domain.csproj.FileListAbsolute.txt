@@ -1,0 +1,11 @@
+D:\CurrentPlay\GachaGame\src\GachaGame.Domain\bin\Debug\net7.0\GachaGame.Domain.deps.json
+D:\CurrentPlay\GachaGame\src\GachaGame.Domain\bin\Debug\net7.0\GachaGame.Domain.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.Domain\bin\Debug\net7.0\GachaGame.Domain.pdb
+D:\CurrentPlay\GachaGame\src\GachaGame.Domain\obj\Debug\net7.0\GachaGame.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CurrentPlay\GachaGame\src\GachaGame.Domain\obj\Debug\net7.0\GachaGame.Domain.AssemblyInfoInputs.cache
+D:\CurrentPlay\GachaGame\src\GachaGame.Domain\obj\Debug\net7.0\GachaGame.Domain.AssemblyInfo.cs
+D:\CurrentPlay\GachaGame\src\GachaGame.Domain\obj\Debug\net7.0\GachaGame.Domain.csproj.CoreCompileInputs.cache
+D:\CurrentPlay\GachaGame\src\GachaGame.Domain\obj\Debug\net7.0\GachaGame.Domain.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.Domain\obj\Debug\net7.0\refint\GachaGame.Domain.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.Domain\obj\Debug\net7.0\GachaGame.Domain.pdb
+D:\CurrentPlay\GachaGame\src\GachaGame.Domain\obj\Debug\net7.0\ref\GachaGame.Domain.dll

@@ -1,0 +1,15 @@
+D:\CurrentPlay\GachaGame\src\GachaGame.Infrastructure\bin\Debug\net7.0\GachaGame.Infrastructure.deps.json
+D:\CurrentPlay\GachaGame\src\GachaGame.Infrastructure\bin\Debug\net7.0\GachaGame.Infrastructure.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.Infrastructure\bin\Debug\net7.0\GachaGame.Infrastructure.pdb
+D:\CurrentPlay\GachaGame\src\GachaGame.Infrastructure\bin\Debug\net7.0\GachaGame.Domain.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.Infrastructure\bin\Debug\net7.0\GachaGame.Domain.pdb
+D:\CurrentPlay\GachaGame\src\GachaGame.Infrastructure\obj\Debug\net7.0\GachaGame.Infrastructure.csproj.AssemblyReference.cache
+D:\CurrentPlay\GachaGame\src\GachaGame.Infrastructure\obj\Debug\net7.0\GachaGame.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CurrentPlay\GachaGame\src\GachaGame.Infrastructure\obj\Debug\net7.0\GachaGame.Infrastructure.AssemblyInfoInputs.cache
+D:\CurrentPlay\GachaGame\src\GachaGame.Infrastructure\obj\Debug\net7.0\GachaGame.Infrastructure.AssemblyInfo.cs
+D:\CurrentPlay\GachaGame\src\GachaGame.Infrastructure\obj\Debug\net7.0\GachaGame.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CurrentPlay\GachaGame\src\GachaGame.Infrastructure\obj\Debug\net7.0\GachaGame.Infrastructure.csproj.CopyComplete
+D:\CurrentPlay\GachaGame\src\GachaGame.Infrastructure\obj\Debug\net7.0\GachaGame.Infrastructure.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.Infrastructure\obj\Debug\net7.0\refint\GachaGame.Infrastructure.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.Infrastructure\obj\Debug\net7.0\GachaGame.Infrastructure.pdb
+D:\CurrentPlay\GachaGame\src\GachaGame.Infrastructure\obj\Debug\net7.0\ref\GachaGame.Infrastructure.dll

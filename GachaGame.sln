@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GachaGame", "GachaGame", "{C6BF1A57-3450-4C48-97FA-C91197429CC1}"
+	ProjectSection(SolutionItems) = preProject
+		开发日志.txt = 开发日志.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GachaGame.API", "src\GachaGame.API\GachaGame.API.csproj", "{7F71BA89-A968-4410-B687-593EF8920F8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GachaGame.Application", "src\GachaGame.Application\GachaGame.Application.csproj", "{F045EEE2-AD8C-47FD-B402-2D681F1FE341}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GachaGame.Domain", "src\GachaGame.Domain\GachaGame.Domain.csproj", "{CD40F5AE-55D4-42BB-890E-A08288F09165}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GachaGame.Infrastructure", "src\GachaGame.Infrastructure\GachaGame.Infrastructure.csproj", "{56AFB872-C05F-4C54-98F0-B2876414C777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GachaGame.Contracts", "src\GachaGame.Contracts\GachaGame.Contracts.csproj", "{635472CE-1AEF-4C5B-87B2-9B5C401BAF5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F71BA89-A968-4410-B687-593EF8920F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F71BA89-A968-4410-B687-593EF8920F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F71BA89-A968-4410-B687-593EF8920F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F71BA89-A968-4410-B687-593EF8920F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F045EEE2-AD8C-47FD-B402-2D681F1FE341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F045EEE2-AD8C-47FD-B402-2D681F1FE341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F045EEE2-AD8C-47FD-B402-2D681F1FE341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F045EEE2-AD8C-47FD-B402-2D681F1FE341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD40F5AE-55D4-42BB-890E-A08288F09165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD40F5AE-55D4-42BB-890E-A08288F09165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD40F5AE-55D4-42BB-890E-A08288F09165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD40F5AE-55D4-42BB-890E-A08288F09165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56AFB872-C05F-4C54-98F0-B2876414C777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AFB872-C05F-4C54-98F0-B2876414C777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AFB872-C05F-4C54-98F0-B2876414C777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AFB872-C05F-4C54-98F0-B2876414C777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635472CE-1AEF-4C5B-87B2-9B5C401BAF5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635472CE-1AEF-4C5B-87B2-9B5C401BAF5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635472CE-1AEF-4C5B-87B2-9B5C401BAF5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635472CE-1AEF-4C5B-87B2-9B5C401BAF5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7F71BA89-A968-4410-B687-593EF8920F8A} = {C6BF1A57-3450-4C48-97FA-C91197429CC1}
+		{F045EEE2-AD8C-47FD-B402-2D681F1FE341} = {C6BF1A57-3450-4C48-97FA-C91197429CC1}
+		{CD40F5AE-55D4-42BB-890E-A08288F09165} = {C6BF1A57-3450-4C48-97FA-C91197429CC1}
+		{56AFB872-C05F-4C54-98F0-B2876414C777} = {C6BF1A57-3450-4C48-97FA-C91197429CC1}
+		{635472CE-1AEF-4C5B-87B2-9B5C401BAF5E} = {C6BF1A57-3450-4C48-97FA-C91197429CC1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66C15FE7-4093-430C-9017-A1EC1C671745}
+	EndGlobalSection
+EndGlobal

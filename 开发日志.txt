@@ -1,0 +1,50 @@
+：：：：：2025.5.8：：：：：：：：：：：：：：：：：：：：：：：：：
+一、开发日志.txt
+二、添加GachaGame.Contracts
+	·目标框架.NET 9.0
+	·主要负责定义跨层交互的DTO和接口。
+	·引用了 GachaGame.Domain 项目
+三、调整项目间引用
+	·GachaGame.API引用了GachaGame.Application和GachaGame.Contracts项目。
+	·GachaGame.Application引用了GachaGame.Domain和GachaGame.Contracts项目。
+	·GachaGame.Infrastructure引用了GachaGame.Domain和GachaGame.Contracts项目。
+四、确定各项目内代码原则
+	·GachaGame.API：
+		1.处理HTTP协议
+		2.异常处理只有HTTP相关逻辑
+		3.示例内容（控制器、中间件、Swagger配置）
+	·GachaGame.Application：
+		1.编排领域对象，处理事务
+		2.方法名体现业务意图
+		3.示例内容（用例服务、DTO转换、事务管理）
+	·GachaGame.Domain：
+		1.只包含POCO类和接口定义，不依赖任何外部框架
+		2.数据库相关操作只通过接口定义（仅定义、接口实现在Infrastructure）
+		3.业务规则内聚在模型内部，即POCO类中
+		3.示例内容（EF Core实现、Redis客户端、邮件发送）
+	·GachaGame.Infrastructure：
+		1.实现Repository接口
+		2.没有throw new DomainException（领域异常应在Domain层抛出）
+		3.示例内容
+	·GachaGame.Contracts
+		1.只包含共享数据结构（DTO），零依赖
+		2.没有业务逻辑
+		3.示例内容（DTO、请求类、跨层接口）
+
+：：：：：2025.4.28：：：：：：：：：：：：：：：：：：：：：：：：：
+一、创建解决方案GachaGame：
+1.GachaGame.API
+	·目标框架.NET 9.0
+	·引用了 GachaGame.Application 项目。
+2.GachaGame.Application
+	·目标框架.NET 9.0
+	·主要负责业务逻辑的实现。
+	·引用了 GachaGame.Domain 项目
+3.GachaGame.Domain
+	·目标框架.NET 9.0
+	·主要负责定义核心业务逻辑和POCO类。
+4.GachaGame.Infrastructure
+	·目标框架.NET 9.0
+	·主要负责与外部资源的交互（如数据库、文件系统等）。
+	·引用了 GachaGame.Domain 项目
+二、启用 HTTPS 重定向
