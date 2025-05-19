@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\CurrentPlay\\GachaGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD40F5AE-55D4-42BB-890E-A08288F09165}|src\\GachaGame.Domain\\GachaGame.Domain.csproj|d:\\currentplay\\gachagame\\src\\gachagame.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD40F5AE-55D4-42BB-890E-A08288F09165}|src\\GachaGame.Domain\\GachaGame.Domain.csproj|solutionrelative:src\\gachagame.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F71BA89-A968-4410-B687-593EF8920F8A}|src\\GachaGame.API\\GachaGame.API.csproj|d:\\currentplay\\gachagame\\src\\gachagame.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F71BA89-A968-4410-B687-593EF8920F8A}|src\\GachaGame.API\\GachaGame.API.csproj|solutionrelative:src\\gachagame.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6BF1A57-3450-4C48-97FA-C91197429CC1}|GachaGame{C6BF1A57-3450-4C48-97FA-C91197429CC1}|D:\\CurrentPlay\\GachaGame\\\u5F00\u53D1\u65E5\u5FD7.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{C6BF1A57-3450-4C48-97FA-C91197429CC1}|GachaGame{C6BF1A57-3450-4C48-97FA-C91197429CC1}|solutionrelative:\u5F00\u53D1\u65E5\u5FD7.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CurrentPlay\\GachaGame\\src\\GachaGame.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\GachaGame.API\\Program.cs",
+              "ToolTip": "D:\\CurrentPlay\\GachaGame\\src\\GachaGame.API\\Program.cs",
+              "RelativeToolTip": "src\\GachaGame.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:12:02.723Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u5F00\u53D1\u65E5\u5FD7.txt",
+              "DocumentMoniker": "D:\\CurrentPlay\\GachaGame\\\u5F00\u53D1\u65E5\u5FD7.txt",
+              "RelativeDocumentMoniker": "\u5F00\u53D1\u65E5\u5FD7.txt",
+              "ToolTip": "D:\\CurrentPlay\\GachaGame\\\u5F00\u53D1\u65E5\u5FD7.txt",
+              "RelativeToolTip": "\u5F00\u53D1\u65E5\u5FD7.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-08T03:01:52Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -23,14 +57,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\u5F00\u53D1\u65E5\u5FD7.txt",
-              "DocumentMoniker": "D:\\CurrentPlay\\GachaGame\\\u5F00\u53D1\u65E5\u5FD7.txt",
-              "RelativeDocumentMoniker": "\u5F00\u53D1\u65E5\u5FD7.txt",
-              "ToolTip": "D:\\CurrentPlay\\GachaGame\\\u5F00\u53D1\u65E5\u5FD7.txt",
-              "RelativeToolTip": "\u5F00\u53D1\u65E5\u5FD7.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-08T03:01:52Z",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CurrentPlay\\GachaGame\\src\\GachaGame.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "src\\GachaGame.Domain\\Models\\User.cs",
+              "ToolTip": "D:\\CurrentPlay\\GachaGame\\src\\GachaGame.Domain\\Models\\User.cs",
+              "RelativeToolTip": "src\\GachaGame.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:19:11.61Z",
               "EditorCaption": ""
             }
           ]
