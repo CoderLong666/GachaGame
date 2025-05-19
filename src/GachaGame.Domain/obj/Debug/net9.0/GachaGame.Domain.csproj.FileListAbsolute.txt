@@ -9,3 +9,5 @@ D:\CurrentPlay\GachaGame\src\GachaGame.Domain\obj\Debug\net9.0\GachaGame.Domain.
 D:\CurrentPlay\GachaGame\src\GachaGame.Domain\obj\Debug\net9.0\refint\GachaGame.Domain.dll
 D:\CurrentPlay\GachaGame\src\GachaGame.Domain\obj\Debug\net9.0\GachaGame.Domain.pdb
 D:\CurrentPlay\GachaGame\src\GachaGame.Domain\obj\Debug\net9.0\ref\GachaGame.Domain.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.Domain\obj\Debug\net9.0\GachaGame.Domain.csproj.AssemblyReference.cache
+D:\CurrentPlay\GachaGame\src\GachaGame.Domain\obj\Debug\net9.0\GachaGame.Domain.sourcelink.json

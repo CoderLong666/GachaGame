@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
+﻿using System.ComponentModel.DataAnnotations;
 using System.Net;
 using System.Runtime.InteropServices;
-using NodaTime;
+using System.Text;
 
 namespace GachaGame.Domain.Models
 {
@@ -79,11 +76,11 @@ namespace GachaGame.Domain.Models
         }
         [Key] public long Id { get; set; }
 
-        public Instant CreatedAt { get; set; }
+        public DateTime CreatedAt { get; set; }
 
         [Required] public string CreatedBy { get; set; } = string.Empty;
 
-        public Instant? UpdatedAt { get; set; }
+        public DateTime? UpdatedAt { get; set; }
 
         public string? UpdatedBy { get; set; }
     }

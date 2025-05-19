@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1mrOgHRWOX4=",
+  "dgSpecHash": "rdZTh43tdwU=",
   "success": true,
   "projectFilePath": "D:\\CurrentPlay\\GachaGame\\src\\GachaGame.Contracts\\GachaGame.Contracts.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\long\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\long\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
     "C:\\Users\\long\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []

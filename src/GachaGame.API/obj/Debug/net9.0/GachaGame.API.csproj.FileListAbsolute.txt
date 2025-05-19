@@ -39,3 +39,11 @@ D:\CurrentPlay\GachaGame\src\GachaGame.API\obj\Debug\net9.0\refint\GachaGame.API
 D:\CurrentPlay\GachaGame\src\GachaGame.API\obj\Debug\net9.0\GachaGame.API.pdb
 D:\CurrentPlay\GachaGame\src\GachaGame.API\obj\Debug\net9.0\GachaGame.API.genruntimeconfig.cache
 D:\CurrentPlay\GachaGame\src\GachaGame.API\obj\Debug\net9.0\ref\GachaGame.API.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.API\bin\Debug\net9.0\GachaGame.Contracts.staticwebassets.endpoints.json
+D:\CurrentPlay\GachaGame\src\GachaGame.API\bin\Debug\net9.0\GachaGame.Contracts.deps.json
+D:\CurrentPlay\GachaGame\src\GachaGame.API\bin\Debug\net9.0\GachaGame.Contracts.runtimeconfig.json
+D:\CurrentPlay\GachaGame\src\GachaGame.API\bin\Debug\net9.0\GachaGame.Contracts.exe
+D:\CurrentPlay\GachaGame\src\GachaGame.API\bin\Debug\net9.0\IdGen.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.API\bin\Debug\net9.0\GachaGame.Contracts.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.API\bin\Debug\net9.0\GachaGame.Contracts.pdb
+D:\CurrentPlay\GachaGame\src\GachaGame.API\obj\Debug\net9.0\GachaGame.API.sourcelink.json

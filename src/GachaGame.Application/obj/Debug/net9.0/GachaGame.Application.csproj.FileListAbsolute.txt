@@ -13,3 +13,12 @@ D:\CurrentPlay\GachaGame\src\GachaGame.Application\obj\Debug\net9.0\GachaGame.Ap
 D:\CurrentPlay\GachaGame\src\GachaGame.Application\obj\Debug\net9.0\refint\GachaGame.Application.dll
 D:\CurrentPlay\GachaGame\src\GachaGame.Application\obj\Debug\net9.0\GachaGame.Application.pdb
 D:\CurrentPlay\GachaGame\src\GachaGame.Application\obj\Debug\net9.0\ref\GachaGame.Application.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\bin\Debug\net9.0\appsettings.Development.json
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\bin\Debug\net9.0\appsettings.json
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\bin\Debug\net9.0\GachaGame.Contracts.staticwebassets.endpoints.json
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\bin\Debug\net9.0\GachaGame.Contracts.deps.json
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\bin\Debug\net9.0\GachaGame.Contracts.runtimeconfig.json
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\bin\Debug\net9.0\GachaGame.Contracts.exe
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\bin\Debug\net9.0\GachaGame.Contracts.dll
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\bin\Debug\net9.0\GachaGame.Contracts.pdb
+D:\CurrentPlay\GachaGame\src\GachaGame.Application\obj\Debug\net9.0\GachaGame.Application.sourcelink.json

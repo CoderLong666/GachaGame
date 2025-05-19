@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GachaGame.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+678a4ae9ee47b5bb72454177c2ca0ee967e478a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aca044f7e657049f3ebede47132b1e1a400be559")]
 [assembly: System.Reflection.AssemblyProductAttribute("GachaGame.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GachaGame.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "GachaGame.Domain/1.0.0": {
+        "dependencies": {
+          "IdGen": "3.0.7"
+        },
         "runtime": {
           "GachaGame.Domain.dll": {}
+        }
+      },
+      "IdGen/3.0.7": {
+        "runtime": {
+          "lib/netstandard2.0/IdGen.dll": {
+            "assemblyVersion": "3.0.7.0",
+            "fileVersion": "3.0.7.0"
+          }
         }
       }
     }
@@ -18,6 +29,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "IdGen/3.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pynYNXHCteidWueEX8mT72+Ue9FfwyMe+cx2YNJVrRWYGrfVLqdC0Xjv9IwuAkUQ8usV5JKwUPFJFh5eVi/XMg==",
+      "path": "idgen/3.0.7",
+      "hashPath": "idgen.3.0.7.nupkg.sha512"
     }
   }
 }

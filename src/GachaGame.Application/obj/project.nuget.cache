@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "NUax+Otr4Yk=",
+  "dgSpecHash": "V5xoOeSc5fc=",
   "success": true,
   "projectFilePath": "D:\\CurrentPlay\\GachaGame\\src\\GachaGame.Application\\GachaGame.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\long\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\long\\.nuget\\packages\\idgen\\3.0.7\\idgen.3.0.7.nupkg.sha512",
+    "C:\\Users\\long\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
     "C:\\Users\\long\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []

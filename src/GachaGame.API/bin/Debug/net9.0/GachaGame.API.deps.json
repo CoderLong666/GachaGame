@@ -9,11 +9,20 @@
       "GachaGame.API/1.0.0": {
         "dependencies": {
           "GachaGame.Application": "1.0.0",
+          "GachaGame.Contracts": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "9.0.4",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
         "runtime": {
           "GachaGame.API.dll": {}
+        }
+      },
+      "IdGen/3.0.7": {
+        "runtime": {
+          "lib/netstandard2.0/IdGen.dll": {
+            "assemblyVersion": "3.0.7.0",
+            "fileVersion": "3.0.7.0"
+          }
         }
       },
       "Microsoft.AspNetCore.OpenApi/9.0.4": {
@@ -76,6 +85,7 @@
       },
       "GachaGame.Application/1.0.0": {
         "dependencies": {
+          "GachaGame.Contracts": "1.0.0",
           "GachaGame.Domain": "1.0.0"
         },
         "runtime": {
@@ -85,7 +95,21 @@
           }
         }
       },
+      "GachaGame.Contracts/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.OpenApi": "9.0.4"
+        },
+        "runtime": {
+          "GachaGame.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "GachaGame.Domain/1.0.0": {
+        "dependencies": {
+          "IdGen": "3.0.7"
+        },
         "runtime": {
           "GachaGame.Domain.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -100,6 +124,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "IdGen/3.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pynYNXHCteidWueEX8mT72+Ue9FfwyMe+cx2YNJVrRWYGrfVLqdC0Xjv9IwuAkUQ8usV5JKwUPFJFh5eVi/XMg==",
+      "path": "idgen/3.0.7",
+      "hashPath": "idgen.3.0.7.nupkg.sha512"
     },
     "Microsoft.AspNetCore.OpenApi/9.0.4": {
       "type": "package",
@@ -151,6 +182,11 @@
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
     },
     "GachaGame.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GachaGame.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

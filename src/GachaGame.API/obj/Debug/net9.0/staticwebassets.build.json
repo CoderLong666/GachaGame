@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "I0SxuXH2OhQ9VQ6esNsSPzZpA5GnDIuUo1FNE6uNUrI=",
+  "Hash": "dmalqiUhO2Oa/PAcQHT66iOQEMZPhEWUShuM8rUo2OI=",
   "Source": "GachaGame.API",
   "BasePath": "_content/GachaGame.API",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\CurrentPlay\\GachaGame\\src\\GachaGame.Contracts\\GachaGame.Contracts.csproj",
+      "Version": 2,
+      "Source": "GachaGame.Contracts",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [],
   "Assets": [],
   "Endpoints": []
