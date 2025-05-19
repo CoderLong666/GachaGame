@@ -11,7 +11,7 @@ namespace GachaGame.Domain.Models
     }
     public class GachaRecord : Entity
     {
-        public int UserId { get; set; }
+        public long UserId { get; set; }
         public virtual User? User { get; set; }
 
         public string ItemName { get; set; } = string.Empty;

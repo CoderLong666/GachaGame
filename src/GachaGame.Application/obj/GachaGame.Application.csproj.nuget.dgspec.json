@@ -199,6 +199,10 @@
             "IdGen": {
               "target": "Package",
               "version": "[3.0.7, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
             }
           },
           "imports": [

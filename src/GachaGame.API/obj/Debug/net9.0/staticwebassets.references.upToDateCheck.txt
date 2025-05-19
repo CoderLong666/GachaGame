@@ -1,1 +1,8 @@
 D:\CurrentPlay\GachaGame\src\GachaGame.Contracts\obj\Debug\net9.0\staticwebassets.build.json
+D:\CurrentPlay\GachaGame\src\GachaGame.Contracts\obj\Debug\net9.0\staticwebassets.build.json
+D:\CurrentPlay\GachaGame\src\GachaGame.Contracts\obj\Debug\net9.0\staticwebassets.build.json
+D:\CurrentPlay\GachaGame\src\GachaGame.Contracts\obj\Debug\net9.0\staticwebassets.build.json
+D:\CurrentPlay\GachaGame\src\GachaGame.Contracts\obj\Debug\net9.0\staticwebassets.build.json
+D:\CurrentPlay\GachaGame\src\GachaGame.Contracts\obj\Debug\net9.0\staticwebassets.build.json
+D:\CurrentPlay\GachaGame\src\GachaGame.Contracts\obj\Debug\net9.0\staticwebassets.build.json
+D:\CurrentPlay\GachaGame\src\GachaGame.Contracts\obj\Debug\net9.0\staticwebassets.build.json

@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ZzifF0GSQSg=",
+  "dgSpecHash": "1v3q1/yatoU=",
   "success": true,
   "projectFilePath": "D:\\CurrentPlay\\GachaGame\\src\\GachaGame.Domain\\GachaGame.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\long\\.nuget\\packages\\idgen\\3.0.7\\idgen.3.0.7.nupkg.sha512"
+    "C:\\Users\\long\\.nuget\\packages\\idgen\\3.0.7\\idgen.3.0.7.nupkg.sha512",
+    "C:\\Users\\long\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\long\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\long\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\long\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
