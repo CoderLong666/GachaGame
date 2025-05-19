@@ -1,4 +1,8 @@
-：：：：：2025.5.8：：：：：：：：：：：：：：：：：：：：：：：：：
+：：：：：2025.5.19：：：：：：：：：：：：：：：：：：：：：：：：：
+一、添加EFCore引用
+	·GachaGame.Domain引用了Microsoft.EntityFrameworkCore和Microsoft.EntityFrameworkCore.SqlServer包。
+	·GachaGame.Infrastructure引用了Microsoft.EntityFrameworkCore和Microsoft.EntityFrameworkCore.SqlServer包。
+	·初始化数据库连接字符串、配置EFCore上下文。
 
 
 ：：：：：2025.5.8：：：：：：：：：：：：：：：：：：：：：：：：：
